@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri/MultipleLinearRegression(25-35 arası satırlar) konu anlatımı.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri/MultipleLinearRegression(36-40 arası satır) konu anlatımı.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri/MultipleLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri/SimpleLinearRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +61,9 @@
     "Python.IntroToPandas.executor": "Run",
     "Python.IntroToSeaborn.executor": "Run",
     "Python.MatplotlibStyles.executor": "Run",
+    "Python.MultipleLinearRegression.executor": "Run",
     "Python.OdevEDA.executor": "Run",
+    "Python.SimpleLinearRegression.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -90,6 +96,7 @@
       <workItem from="1755431740947" duration="14319000" />
       <workItem from="1755510677260" duration="11006000" />
       <workItem from="1755534283807" duration="5913000" />
+      <workItem from="1755599159456" duration="10997000" />
     </task>
     <servers />
   </component>
@@ -113,7 +120,9 @@
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToPandas.coverage" NAME="IntroToPandas Coverage Results" MODIFIED="1755441778087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToMatplotlib.coverage" NAME="IntroToMatplotlib Coverage Results" MODIFIED="1755454336441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$DataFrameOperations.coverage" NAME="DataFrameOperations Coverage Results" MODIFIED="1755454323393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SimpleLinearRegression.coverage" NAME="SimpleLinearRegression Coverage Results" MODIFIED="1755619150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$Bolum15_SQL.coverage" NAME="Bolum15_SQL Coverage Results" MODIFIED="1755433907823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MultipleLinearRegression.coverage" NAME="MultipleLinearRegression Coverage Results" MODIFIED="1755624647647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$OdevEDA.coverage" NAME="OdevEDA Coverage Results" MODIFIED="1755515320194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 29 EDA Ödev" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MatplotlibStyles.coverage" NAME="MatplotlibStyles Coverage Results" MODIFIED="1755454358060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$BalancingData.coverage" NAME="BalancingData Coverage Results" MODIFIED="1755525664683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
