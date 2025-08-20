@@ -73,3 +73,4 @@ plt.show()
 print(regression.intercept_) # oluşan fonksiyonun Y yi kestiği noktayı verir
 print(regression.coef_) # fonksiyonun x lerinin katsayısını sırasıyla verir
 
+print(df)
