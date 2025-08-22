@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="" />
+    <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/10-SVMRegressor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/10-diamonds.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,43 +45,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.BalancingData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bolum15_SQL.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataFrameOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EncodingData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FeatureEngineeringEDA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToDataFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToFeatureEngineering.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToMatplotlib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToNumpy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToPandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToSeaborn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineerRegresyonOdev.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogisticRegressionAdvanced.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogisticRegressionMultiClass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LojistikRegresyonIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MatplotlibStyles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MultipleLinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OdevEDA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PolinomRegresyon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RidgeLassoElasticNet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SimpleLinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bekir/Desktop/Git/Veri_Bilimi_ve_Makine_Ogrenmesi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.BalancingData.executor": "Run",
+    "Python.Bolum15_SQL.executor": "Run",
+    "Python.DataFrameOperations.executor": "Run",
+    "Python.EncodingData.executor": "Run",
+    "Python.FeatureEngineeringEDA.executor": "Run",
+    "Python.IntroToDataFrame.executor": "Run",
+    "Python.IntroToFeatureEngineering.executor": "Run",
+    "Python.IntroToMatplotlib.executor": "Run",
+    "Python.IntroToNumpy.executor": "Run",
+    "Python.IntroToPandas.executor": "Run",
+    "Python.IntroToSeaborn.executor": "Run",
+    "Python.LineerRegresyonOdev.executor": "Run",
+    "Python.LogisticRegressionAdvanced.executor": "Run",
+    "Python.LogisticRegressionMultiClass.executor": "Run",
+    "Python.LojistikRegresyonIntro.executor": "Run",
+    "Python.MatplotlibStyles.executor": "Run",
+    "Python.MultipleLinearRegression.executor": "Run",
+    "Python.OdevEDA.executor": "Run",
+    "Python.PolinomRegresyon.executor": "Run",
+    "Python.RidgeLassoElasticNet.executor": "Run",
+    "Python.SVMClassifierTrain.executor": "Run",
+    "Python.SVMRegressor.executor": "Run",
+    "Python.SimpleLinearRegression.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/bekir/Desktop/Git/Veri_Bilimi_ve_Makine_Ogrenmesi/Bölüm 41 Support Vector Machine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bekir\Desktop\Git\Veri_Bilimi_ve_Makine_Ogrenmesi\Bölüm 41 Support Vector Machine" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -120,26 +132,28 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$DataFrameOperations.coverage" NAME="DataFrameOperations Coverage Results" MODIFIED="1755454323393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MultipleLinearRegression.coverage" NAME="MultipleLinearRegression Coverage Results" MODIFIED="1755708156451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LojistikRegresyonIntro.coverage" NAME="LojistikRegresyonIntro Coverage Results" MODIFIED="1755778484203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MatplotlibStyles.coverage" NAME="MatplotlibStyles Coverage Results" MODIFIED="1755454358060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$BalancingData.coverage" NAME="BalancingData Coverage Results" MODIFIED="1755525664683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToSeaborn.coverage" NAME="IntroToSeaborn Coverage Results" MODIFIED="1755511884956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 28 Seaborn Kütüphanesi" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$EncodingData.coverage" NAME="EncodingData Coverage Results" MODIFIED="1755535845312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToDataFrame.coverage" NAME="IntroToDataFrame Coverage Results" MODIFIED="1755454444050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToFeatureEngineering.coverage" NAME="IntroToFeatureEngineering Coverage Results" MODIFIED="1755520929854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 30 Feature Engineering" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMRegressor.coverage" NAME="SVMRegressor Coverage Results" MODIFIED="1755861444518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToPandas.coverage" NAME="IntroToPandas Coverage Results" MODIFIED="1755441778087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToMatplotlib.coverage" NAME="IntroToMatplotlib Coverage Results" MODIFIED="1755454336441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$DataFrameOperations.coverage" NAME="DataFrameOperations Coverage Results" MODIFIED="1755454323393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SimpleLinearRegression.coverage" NAME="SimpleLinearRegression Coverage Results" MODIFIED="1755708145504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$Bolum15_SQL.coverage" NAME="Bolum15_SQL Coverage Results" MODIFIED="1755433907823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LogisticRegressionAdvanced.coverage" NAME="LogisticRegressionAdvanced Coverage Results" MODIFIED="1755790430347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MultipleLinearRegression.coverage" NAME="MultipleLinearRegression Coverage Results" MODIFIED="1755708156451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LogisticRegressionMultiClass.coverage" NAME="LogisticRegressionMultiClass Coverage Results" MODIFIED="1755780230676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$OdevEDA.coverage" NAME="OdevEDA Coverage Results" MODIFIED="1755515320194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 29 EDA Ödev" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LineerRegresyonOdev.coverage" NAME="LineerRegresyonOdev Coverage Results" MODIFIED="1755709704737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 38 Lineer Regresyon Ödevi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$main.coverage" NAME="main Coverage Results" MODIFIED="1755626144504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../ChatbotWithAssistants-main" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LojistikRegresyonIntro.coverage" NAME="LojistikRegresyonIntro Coverage Results" MODIFIED="1755778484203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MatplotlibStyles.coverage" NAME="MatplotlibStyles Coverage Results" MODIFIED="1755454358060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$RidgeLassoElasticNet.coverage" NAME="RidgeLassoElasticNet Coverage Results" MODIFIED="1755701071286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 37 Regresyon DataSet Çözümü" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$BalancingData.coverage" NAME="BalancingData Coverage Results" MODIFIED="1755525664683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMClassifierTrain.coverage" NAME="SVMClassifierTrain Coverage Results" MODIFIED="1755856691876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMClassifier.coverage" NAME="SVMClassifier Coverage Results" MODIFIED="1755852706139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 41 Support Vector Machine" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToSeaborn.coverage" NAME="IntroToSeaborn Coverage Results" MODIFIED="1755511884956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 28 Seaborn Kütüphanesi" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$EncodingData.coverage" NAME="EncodingData Coverage Results" MODIFIED="1755535845312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$FeatureEngineeringEDA.coverage" NAME="FeatureEngineeringEDA Coverage Results" MODIFIED="1755541641974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 32 Google Play DataSet EDA &amp; Feature Engineering" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToNumpy.coverage" NAME="IntroToNumpy Coverage Results" MODIFIED="1755440908935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 24 Numpy Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$PolinomRegresyon.coverage" NAME="PolinomRegresyon Coverage Results" MODIFIED="1755708174513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 35 Polinom Regresyon" />
