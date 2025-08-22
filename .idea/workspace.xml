@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bölüm 43 Naive Bayes Sınıflandırıcı/NaiveBayesClassifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 45 KNN Algoritması/KNNClassifierAndRegressor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/11-NaiveBayesClassifier.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/11-iris.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5-RegressionDecision.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5.1-ScalerDifferences.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5.1-scalerdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-KNNClassifierAndRegressor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-health_risk_classification.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-house_energy_regression.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,7 @@
     "Python.IntroToNumpy.executor": "Run",
     "Python.IntroToPandas.executor": "Run",
     "Python.IntroToSeaborn.executor": "Run",
+    "Python.KNNClassifierAndRegressor.executor": "Run",
     "Python.LineerRegresyonOdev.executor": "Run",
     "Python.LogisticRegressionAdvanced.executor": "Run",
     "Python.LogisticRegressionMultiClass.executor": "Run",
@@ -119,6 +117,7 @@
       <workItem from="1755691126787" duration="16557000" />
       <workItem from="1755772002983" duration="7342000" />
       <workItem from="1755787266127" duration="3849000" />
+      <workItem from="1755876875702" duration="2022000" />
     </task>
     <servers />
   </component>
@@ -137,6 +136,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$KNNClassifierAndRegressor.coverage" NAME="KNNClassifierAndRegressor Coverage Results" MODIFIED="1755879313397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 45 KNN Algoritması" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$DataFrameOperations.coverage" NAME="DataFrameOperations Coverage Results" MODIFIED="1755454323393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$MultipleLinearRegression.coverage" NAME="MultipleLinearRegression Coverage Results" MODIFIED="1755708156451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LojistikRegresyonIntro.coverage" NAME="LojistikRegresyonIntro Coverage Results" MODIFIED="1755778484203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
