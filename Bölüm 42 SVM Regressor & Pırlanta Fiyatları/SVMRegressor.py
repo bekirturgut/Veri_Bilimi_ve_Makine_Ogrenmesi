@@ -91,6 +91,9 @@ print("R2 = ",R2)
 plt.scatter(y_test,y_pred_svr)
 plt.show()
 """
+
+                # EN İYİSİ BUYDU %94 AMA İŞLEMCİ AĞLADI BAYA BAYA
+                
 from sklearn.svm import SVR
 from sklearn.model_selection import GridSearchCV
 

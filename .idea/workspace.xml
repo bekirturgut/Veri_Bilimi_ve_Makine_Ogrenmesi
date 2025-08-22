@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 43 Naive Bayes Sınıflandırıcı/NaiveBayesClassifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/10-SVMRegressor.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/10-diamonds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları/SVMRegressor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/11-NaiveBayesClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/11-iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5-RegressionDecision.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5.1-ScalerDifferences.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/5.1-scalerdata.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +69,7 @@
     "Python.LojistikRegresyonIntro.executor": "Run",
     "Python.MatplotlibStyles.executor": "Run",
     "Python.MultipleLinearRegression.executor": "Run",
+    "Python.NaiveBayesClassifier.executor": "Run",
     "Python.OdevEDA.executor": "Run",
     "Python.PolinomRegresyon.executor": "Run",
     "Python.RidgeLassoElasticNet.executor": "Run",
@@ -141,12 +146,13 @@
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$EncodingData.coverage" NAME="EncodingData Coverage Results" MODIFIED="1755535845312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 31 Resampling &amp; Encoding" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToDataFrame.coverage" NAME="IntroToDataFrame Coverage Results" MODIFIED="1755454444050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToFeatureEngineering.coverage" NAME="IntroToFeatureEngineering Coverage Results" MODIFIED="1755520929854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 30 Feature Engineering" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMRegressor.coverage" NAME="SVMRegressor Coverage Results" MODIFIED="1755861444518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMRegressor.coverage" NAME="SVMRegressor Coverage Results" MODIFIED="1755862110825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToPandas.coverage" NAME="IntroToPandas Coverage Results" MODIFIED="1755441778087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToMatplotlib.coverage" NAME="IntroToMatplotlib Coverage Results" MODIFIED="1755454336441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SimpleLinearRegression.coverage" NAME="SimpleLinearRegression Coverage Results" MODIFIED="1755708145504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$Bolum15_SQL.coverage" NAME="Bolum15_SQL Coverage Results" MODIFIED="1755433907823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LogisticRegressionAdvanced.coverage" NAME="LogisticRegressionAdvanced Coverage Results" MODIFIED="1755790430347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$NaiveBayesClassifier.coverage" NAME="NaiveBayesClassifier Coverage Results" MODIFIED="1755866678134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 43 Naive Bayes Sınıflandırıcı" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LogisticRegressionMultiClass.coverage" NAME="LogisticRegressionMultiClass Coverage Results" MODIFIED="1755780230676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 40 Lojistik Regresyon" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$OdevEDA.coverage" NAME="OdevEDA Coverage Results" MODIFIED="1755515320194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 29 EDA Ödev" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$LineerRegresyonOdev.coverage" NAME="LineerRegresyonOdev Coverage Results" MODIFIED="1755709704737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 38 Lineer Regresyon Ödevi" />
