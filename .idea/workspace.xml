@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bölüm 45 KNN Algoritması/KNNClassifierAndRegressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 46 Karar Ağaçlarına Giriş/DesicionTreeClassifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-KNNClassifierAndRegressor.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-health_risk_classification.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/12-house_energy_regression.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bölüm 45 KNN Algoritması/KNNClassifierAndRegressor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bölüm 45 KNN Algoritması/KNNClassifierAndRegressor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/13-DecisionTreeClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/13-car_evaluation.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,7 @@
       <workItem from="1755691126787" duration="16557000" />
       <workItem from="1755772002983" duration="7342000" />
       <workItem from="1755787266127" duration="3849000" />
-      <workItem from="1755876875702" duration="2022000" />
+      <workItem from="1755876875702" duration="2908000" />
     </task>
     <servers />
   </component>

@@ -15,9 +15,6 @@ def print(*args, **kwargs):
         kwargs["end"] = "\n\n###############################################\n\n"   # Buraya istediğin varsayılanı koy
     return builtins.print(*args, **kwargs)
 
-
-"""
-
                 # KNN DE BÖYLE KULLANILIYOR
 
 df = pd.read_csv("12-health_risk_classification.csv")
@@ -43,8 +40,6 @@ y_pred = knn.predict(X_test_scaled)
 print(confusion_matrix(y_test,y_pred))
 print(classification_report(y_test,y_pred))
 print(accuracy_score(y_test,y_pred))
-
-"""
 
 df = pd.read_csv("12-house_energy_regression.csv")
 
