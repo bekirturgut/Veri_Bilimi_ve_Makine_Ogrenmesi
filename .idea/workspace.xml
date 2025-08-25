@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bölüm 50 Spor Salonu Kalabalıklığı &amp; Random Forest/RandomForestRegressor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bölüm 49 Ensemble Teknikleri &amp; Gelir Tahmini &amp; Random Forest/RandomForestClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bölüm 49 Ensemble Teknikleri &amp; Gelir Tahmini &amp; Random Forest/RandomForestClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/15-RandomForestRegressor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/15-gym_crowdedness.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,49 +45,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.BalancingData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bolum15_SQL.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataFrameOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DesicionTreeClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EncodingData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FeatureEngineeringEDA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToDataFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToFeatureEngineering.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToMatplotlib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToNumpy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToPandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IntroToSeaborn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KNNClassifierAndRegressor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineerRegresyonOdev.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogisticRegressionAdvanced.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogisticRegressionMultiClass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LojistikRegresyonIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MatplotlibStyles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MultipleLinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NaiveBayesClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OdevEDA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PolinomRegresyon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomForestClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RidgeLassoElasticNet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SVMClassifierTrain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SVMRegressor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SimpleLinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bekir/Desktop/Git/Veri_Bilimi_ve_Makine_Ogrenmesi/Bölüm 41 Support Vector Machine&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.BalancingData.executor": "Run",
+    "Python.Bolum15_SQL.executor": "Run",
+    "Python.DataFrameOperations.executor": "Run",
+    "Python.DesicionTreeClassifier.executor": "Run",
+    "Python.EncodingData.executor": "Run",
+    "Python.FeatureEngineeringEDA.executor": "Run",
+    "Python.IntroToDataFrame.executor": "Run",
+    "Python.IntroToFeatureEngineering.executor": "Run",
+    "Python.IntroToMatplotlib.executor": "Run",
+    "Python.IntroToNumpy.executor": "Run",
+    "Python.IntroToPandas.executor": "Run",
+    "Python.IntroToSeaborn.executor": "Run",
+    "Python.KNNClassifierAndRegressor.executor": "Run",
+    "Python.LineerRegresyonOdev.executor": "Run",
+    "Python.LogisticRegressionAdvanced.executor": "Run",
+    "Python.LogisticRegressionMultiClass.executor": "Run",
+    "Python.LojistikRegresyonIntro.executor": "Run",
+    "Python.MatplotlibStyles.executor": "Run",
+    "Python.MultipleLinearRegression.executor": "Run",
+    "Python.NaiveBayesClassifier.executor": "Run",
+    "Python.OdevEDA.executor": "Run",
+    "Python.PolinomRegresyon.executor": "Run",
+    "Python.RandomForestClassifier.executor": "Run",
+    "Python.RandomForestRegressor.executor": "Run",
+    "Python.RidgeLassoElasticNet.executor": "Run",
+    "Python.SVMClassifierTrain.executor": "Run",
+    "Python.SVMRegressor.executor": "Run",
+    "Python.SimpleLinearRegression.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/bekir/Desktop/Git/Veri_Bilimi_ve_Makine_Ogrenmesi/Bölüm 41 Support Vector Machine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bekir\Desktop\Git\Veri_Bilimi_ve_Makine_Ogrenmesi\Bölüm 41 Support Vector Machine" />
@@ -119,7 +122,7 @@
       <workItem from="1755876875702" duration="5350000" />
       <workItem from="1755941856341" duration="5117000" />
       <workItem from="1755961652073" duration="406000" />
-      <workItem from="1756123732734" duration="317000" />
+      <workItem from="1756123732734" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -162,8 +165,9 @@
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$main.coverage" NAME="main Coverage Results" MODIFIED="1755626144504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../ChatbotWithAssistants-main" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$RidgeLassoElasticNet.coverage" NAME="RidgeLassoElasticNet Coverage Results" MODIFIED="1755701071286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 37 Regresyon DataSet Çözümü" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMClassifierTrain.coverage" NAME="SVMClassifierTrain Coverage Results" MODIFIED="1755856691876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$RandomForestRegressor.coverage" NAME="RandomForestRegressor Coverage Results" MODIFIED="1756126454432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 50 Spor Salonu Kalabalıklığı &amp; Random Forest" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMClassifier.coverage" NAME="SVMClassifier Coverage Results" MODIFIED="1755852706139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 41 Support Vector Machine" />
-    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$RandomForestClassifier.coverage" NAME="RandomForestClassifier Coverage Results" MODIFIED="1755950305226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 49 Ensemble Teknikleri &amp; Gelir Tahmini &amp; Random Forest" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$RandomForestClassifier.coverage" NAME="RandomForestClassifier Coverage Results" MODIFIED="1756124108050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 49 Ensemble Teknikleri &amp; Gelir Tahmini &amp; Random Forest" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$FeatureEngineeringEDA.coverage" NAME="FeatureEngineeringEDA Coverage Results" MODIFIED="1755541641974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 32 Google Play DataSet EDA &amp; Feature Engineering" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToNumpy.coverage" NAME="IntroToNumpy Coverage Results" MODIFIED="1755440908935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 24 Numpy Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$PolinomRegresyon.coverage" NAME="PolinomRegresyon Coverage Results" MODIFIED="1755708174513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 35 Polinom Regresyon" />
