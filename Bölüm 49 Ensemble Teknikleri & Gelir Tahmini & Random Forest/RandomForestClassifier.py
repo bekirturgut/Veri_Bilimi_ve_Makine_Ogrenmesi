@@ -98,6 +98,15 @@ X_test = pd.DataFrame(X_test, columns=cols)
 
 # Training
 
+from sklearn.ensemble import RandomForestClassifier
+rfc = RandomForestClassifier(random_state=15,n_estimators=100)
 
+rfc.fit(X_train,y_train)
 
+y_pred = rfc.predict(X_test)
 
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+
+print(confusion_matrix(y_test,y_pred))
+print(classification_report(y_test,y_pred))
+print("Accuracy Score : ",accuracy_score(y_test,y_pred))
