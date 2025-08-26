@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/22-LightGBMClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/27-HierarchicalClustering.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/27-mall_customers.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +123,7 @@
       <workItem from="1755941856341" duration="5117000" />
       <workItem from="1755961652073" duration="406000" />
       <workItem from="1756123732734" duration="8898000" />
-      <workItem from="1756203206012" duration="609000" />
+      <workItem from="1756203206012" duration="1816000" />
     </task>
     <servers />
   </component>
