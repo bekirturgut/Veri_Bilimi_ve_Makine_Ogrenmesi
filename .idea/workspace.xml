@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa89fa3-5e45-4a7b-b32c-e916f7d0ef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bölüm 65 Ülkeler Projesi/CountryUnsuprevised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bölüm 67 Modeli Dışarı Çıkarmak/SavingModels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/29-CountryUnsupervised.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/29-country_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/30-SavingModels.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/30-diamond_model_complete.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningNotebooks-main/30_testdatascaled.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,7 @@
     "Python.RidgeLassoElasticNet.executor": "Run",
     "Python.SVMClassifierTrain.executor": "Run",
     "Python.SVMRegressor.executor": "Run",
+    "Python.SavingModels.executor": "Run",
     "Python.SimpleLinearRegression.executor": "Run",
     "Python.XGBoostRegressor.executor": "Run",
     "Python.main.executor": "Run",
@@ -126,7 +128,7 @@
       <workItem from="1755961652073" duration="406000" />
       <workItem from="1756123732734" duration="8898000" />
       <workItem from="1756203206012" duration="1816000" />
-      <workItem from="1756211673950" duration="1556000" />
+      <workItem from="1756211673950" duration="3021000" />
     </task>
     <servers />
   </component>
@@ -159,6 +161,7 @@
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToDataFrame.coverage" NAME="IntroToDataFrame Coverage Results" MODIFIED="1755454444050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToFeatureEngineering.coverage" NAME="IntroToFeatureEngineering Coverage Results" MODIFIED="1755520929854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 30 Feature Engineering" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SVMRegressor.coverage" NAME="SVMRegressor Coverage Results" MODIFIED="1755961858926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 42 SVM Regressor &amp; Pırlanta Fiyatları" />
+    <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SavingModels.coverage" NAME="SavingModels Coverage Results" MODIFIED="1756214223415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 67 Modeli Dışarı Çıkarmak" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToPandas.coverage" NAME="IntroToPandas Coverage Results" MODIFIED="1755441778087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 25 Pandas Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$IntroToMatplotlib.coverage" NAME="IntroToMatplotlib Coverage Results" MODIFIED="1755454336441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 26 Matplotlib Kütüphanesi" />
     <SUITE FILE_PATH="coverage/Veri_Bilimi_ve_Makine_Ogrenmesi$SimpleLinearRegression.coverage" NAME="SimpleLinearRegression Coverage Results" MODIFIED="1755708145504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bölüm 34 Çoklu Regresyon ve Pratikleri" />
